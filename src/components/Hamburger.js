@@ -21,7 +21,7 @@ class Hamburger extends React.Component {
         id="toggle-main-menu-mobile"
         className={`hamburger hamburger--slider ${
           this.state.hamburgerActive ? 'is-active' : ''
-        }`}
+          }`}
         type="button"
         onClick={this.handleToggle}
       >
