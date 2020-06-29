@@ -1,7 +1,4 @@
 {
-  "name": "gatsby-serif-theme",
-  "version": "1.0.0",
-  "author": "Robert Austin <rob@jugglerdigital.com>",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
