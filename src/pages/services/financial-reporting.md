@@ -1,19 +1,12 @@
 ---
-path: '/services/business-advisory'
-title: 'Business Advisory'
+path: "/services/financial reporting"
+title: "Financial Reporting"
 date: 2018-11-28T15:14:39+10:00
-image: '/services/default.png'
+image: "/services/default.png"
 featured: true
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+We give you monthly financial statements and provide an overview to keep you in control of your money. You will have the ability to have a quick glance at your reports to see the big picture and give you insights on how to grow your business. Weill take over from where you left off and provide accurate and reliable financial statements each month.
 
 ## Inter pectore totidem
 

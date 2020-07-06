@@ -5,7 +5,7 @@ module.exports = {
     title: 'Express Book Keeping',
     description: 'my theme',
     contact: {
-      phone: 'XXX XXX XXX',
+      phone: '404-641-7026',
       email: 'info@expressbookkeeping.com',
     },
     menuLinks: [

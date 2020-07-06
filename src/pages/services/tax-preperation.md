@@ -1,17 +1,14 @@
 ---
-path: '/services/tax-preperation'
-title: 'Tax Preperation'
+path: "/services/tax-preperation"
+title: "Tax Preperation"
 date: 2018-11-18T12:33:46+10:00
-image: '/services/noun_1013177.png'
+image: "/services/noun_1013177.png"
 draft: false
 featured: true
 weight: 2
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+We provide tax book keeping and will produce a year end package to file with your CPA. We will work directly with your CPA to reduce stress and help save money on invoices that is accrued by CPAs.
 
 - Nata perque
 - Et ferrugine laedam
