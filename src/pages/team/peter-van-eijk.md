@@ -5,7 +5,7 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "/team/Brandon.jpg"
 jobtitle: "Director"
-email: "info@expressbookeeping.com"
+email: "info@expressbookeeping.co"
 linkedinurl: "www.linkedin.com/pvanijk"
 weight: 1
 ---
