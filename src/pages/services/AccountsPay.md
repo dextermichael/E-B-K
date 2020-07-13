@@ -1,6 +1,6 @@
 ---
 path: "/services/financial reporting"
-title: "Financial Reporting"
+title: "Accounts Payable"
 date: 2018-11-28T15:14:39+10:00
 image: "/services/default.png"
 featured: true
