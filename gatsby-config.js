@@ -2,7 +2,7 @@ const guid = process.env.NETLIFY_GOOGLE_ANALYTICS_ID;
 
 module.exports = {
   siteMetadata: {
-    title: 'Express BookKeeping',
+    title: 'Express Bookkeeping',
     description: 'my theme',
     contact: {
       phone: '404-641-7026',
