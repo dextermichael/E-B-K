@@ -20,9 +20,9 @@ const Home = (props) => {
       <div className="intro pb-4">
         <div className="container">
 
-          <h1>Express Book Keeping</h1>
+          <h1>Express Bookkeeping</h1>
           <p>
-            A statement of what the company does.
+            At Express Bookkeeping We partner with small businesses to provide accurate financials to allow the owner peace of mind.
           </p>
         </div>
       </div>
