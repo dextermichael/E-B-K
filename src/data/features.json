@@ -1,17 +1,17 @@
 [
   {
     "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "description": "New clients receive an obligation free consultation",
     "image": "/features/teacher.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "QuickBooks Specialist ",
+    "description": "All our members of are certified QuickBooks professionals.",
     "image": "/features/hr.svg"
   },
   {
     "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "description": "We stay up to date on the latest changes to the tax code..",
     "image": "/features/accounting.svg"
   }
 ]

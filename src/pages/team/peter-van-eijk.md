@@ -6,7 +6,7 @@ draft: false
 image: "/team/Brandon.jpg"
 jobtitle: "Director"
 email: "info@expressbookeeping.co"
-linkedinurl: "www.linkedin.com/pvanijk"
+linkedinurl: ""
 weight: 1
 ---
 

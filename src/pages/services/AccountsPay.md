@@ -6,4 +6,5 @@ image: "/services/default.png"
 featured: true
 ---
 
-We give you monthly financial statements and provide an overview to keep you in control of your money. You will have the ability to have a quick glance at your reports to see the big picture and give you insights on how to grow your business. Weill take over from where you left off and provide accurate and reliable financial statements each month.
+We, at Express Bookkeeping, can streamline all your payables to eliminate lost data, entry errors,
+and duplicate invoices.

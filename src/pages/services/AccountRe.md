@@ -1,8 +1,8 @@
 ---
 path: "/services/Accounts Receivable"
-title: "BookKeeping"
+title: "Financial Reporting "
 date: 2018-11-18T12:33:46+10:00
 image: "services/noun_591323.png"
 ---
 
-We handle business and individual bookkeeping services to facilitate smooth and successful functions of your business. Will record customer transaction, make outgoing payments, and track expense to keeps your books clean.
+We give you monthly financial statements and provide an overview to keep you in control of your money.
